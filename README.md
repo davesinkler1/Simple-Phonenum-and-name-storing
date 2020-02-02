@@ -10,5 +10,6 @@ Deployment
 ==========
 Simply type this command into your command line or terminal:
 <p>
-python phonename.py
+```python phonename.py
+  ```
 </p>
