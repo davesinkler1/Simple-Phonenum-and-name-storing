@@ -8,7 +8,7 @@ inputted by the user
 
 Deployment
 ==========
-Simply type this command into your command line or terminal
+Simply type this command into your command line or terminal:
 <p>
 python phonename.py
 </p>
